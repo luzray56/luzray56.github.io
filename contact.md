@@ -1,5 +1,9 @@
+---
 layout: page
-title: "Contact"
+title: "Contact Information"
 permalink: /contact/
+---
 
-## Contact Information
+## LinkedIn
+
+## Email
