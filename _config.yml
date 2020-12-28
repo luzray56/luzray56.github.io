@@ -1,3 +1,10 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+
+author :
+  name : Raymond Lui
+  github : luzray56
+  
 title: Hi, I'm Raymond!
+description: A website to showcase my projects and highlights
+
 markdown: kramdown
