@@ -1,5 +1,6 @@
-# Hello!
+layout: page
+title: "Hi, I'm Raymond Lui!"
 
-You've reached Raymond Lui's website. 
+# Welcome
 
-This website is currently a work in progress. Come back later to see what updates I've made!
+I am a student studying Electrical Engineering and Computer Sciences (EECS) and Data Science at UC Berkeley. 
