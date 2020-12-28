@@ -1,12 +1,11 @@
 theme: jekyll-theme-minimal
-logo: IMG_4520.HEIC
+logo: IMG_4520 (1).jpg
 
 author :
   name : Raymond Lui
   github : luzray56
-  linkedin: raymond-lui-329272198
   
-title: Hi, I'm Raymond!
+title: Raymond Lui
 description: A website to showcase my projects and highlights
 
 markdown: kramdown
