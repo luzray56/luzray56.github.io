@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: index
 title: "Hi, I'm Raymond Lui!"
 ---
-
 
 # Welcome
 
