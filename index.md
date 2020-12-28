@@ -1,6 +1,7 @@
+---
 layout: page
 title: "Hi, I'm Raymond Lui!"
-permalink: 
+---
 
 
 # Welcome
