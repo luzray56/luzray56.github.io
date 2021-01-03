@@ -6,10 +6,6 @@ layout: default
 
 I am a student studying Electrical Engineering and Computer Sciences (EECS) and Data Science at UC Berkeley.
 
-[Teaching](https://luzray56.github.io/teaching)\
-[Contact](https://luzray56.github.io/contact)\
-[Resume](https://luzray56.github.io/Resume%20(2021).pdf)
-
 ## Personal Project
 
 Over the summer, I worked with a partner to create a COVID-19 app to keep track of your social interactions, or those who are in your "social bubble."
