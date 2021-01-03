@@ -8,12 +8,14 @@ author :
 title: Raymond Lui
 description: My personal website!
 
-sidebar_home_link: true
-
-nav:
-- name:     "Contact"
-  url:      "/contact"
-- name:     "Teaching"
-  url:      "/teaching"
+sidebar:
+  title: "Sample Title"
+  nav: sidebar-sample
+  
+sidebar-sample:
+  - title: "Parent Page A"
+    children:
+      - title: "Child Page A1"
+        url: /contact.md
 
 markdown: kramdown
