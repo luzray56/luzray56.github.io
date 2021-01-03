@@ -5,6 +5,7 @@ layout: default
 # Welcome
 
 I am a student studying Electrical Engineering and Computer Sciences (EECS) and Data Science at UC Berkeley.
+[Resume](https:/luzray56.github.io/Resume%20(2021).pdf)
 
 ## Personal Project
 
