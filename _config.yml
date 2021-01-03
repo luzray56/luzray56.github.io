@@ -8,6 +8,8 @@ author :
 title: Raymond Lui
 description: My personal website!
 
+sidebar_home_link: true
+
 nav:
 - name:     "Contact"
   url:      "/contact"
