@@ -23,7 +23,7 @@ our system to notify others if they might be potentially in contact with COVID-1
 
 I have been playing the piano since I was 5. I passed the DipABRSM exam in 2017. I am currently not pursuing an active career in music, but it's not an option I've ruled out yet!\
 Some of my favorite pieces in include:\ 
--Bach's Chromatic Fantasia and Fugue
--Beethoven's Sonata Pathetique
--Chopin's Nocturne in E flat
--Gershwin's "I've Got Rhythm."
+- Bach's Chromatic Fantasia and Fugue
+- Beethoven's Sonata Pathetique
+- Chopin's Nocturne in E flat
+- Gershwin's "I've Got Rhythm."
