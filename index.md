@@ -8,7 +8,7 @@ I am a student studying Electrical Engineering and Computer Sciences (EECS) and 
 
 [Teaching](https://luzray56.github.io/teaching)\
 [Contact](https://luzray56.github.io/contact)\
-[Resume](https://luzray56.github.io/Resume%20(2021).pdf)
+[Resume](https://luzray56.github.io/resume082021.pdf)
 
 ## Personal Project
 
